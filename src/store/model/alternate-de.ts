@@ -8,7 +8,7 @@ export const AlternateDe: Store = {
       text: ['In den Warenkorb'],
     },
     maxPrice: {
-      container: '.price > span:nth-child(1)',
+      container: '.price',
       euroFormat: true,
     },
     outOfStock: [
@@ -31,7 +31,7 @@ export const AlternateDe: Store = {
       brand: 'test:brand',
       model: 'test:model',
       series: 'test:series',
-      url: 'https://www.alternate.de/html/product/1679012',
+      url: 'https://www.alternate.de/html/product/1866749',
     },
     {
       brand: 'asus',
